@@ -1,6 +1,6 @@
 # 🛒 Shopping List Manager (GUI)  
 
-A simple **GUI-based Shopping List Manager** built with Python. This application allows users to add, remove, and save shopping lists with an intuitive graphical interface.  
+A simple **GUI-based Shopping List Manager** built with Python. This application allows users to add and remove with an intuitive graphical interface.  
 
 ## ✨ Features  
 ✅ User-friendly GUI for managing shopping lists  
