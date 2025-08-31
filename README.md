@@ -1,19 +1,14 @@
-# 🛒 Shopping List Manager (GUI)  
+# 🛒 Shopping List Manager (GUI)
 
-A simple **GUI-based Shopping List Manager** built with Python. This application allows users to add and remove with an intuitive graphical interface.  
+A simple yet powerful **Python + Tkinter application** to manage shopping lists.  
+Originally a console-based program, this project now features a clean graphical interface with **categorization and sorting** for better organization.
 
-## ✨ Features  
-✅ User-friendly GUI for managing shopping lists  
-✅ Add and remove items with ease    
-✅ Built using Python and Tkinter  
-## 📷 Screenshot 
-![Shopping List Manager Screenshot](https://github.com/user-attachments/assets/fb9c8399-ee69-459c-9e31-f6f48ef2e8b7)
-## 🛠️ Technologies Used  
-- **Python**  
-- **Tkinter** (for GUI)  
+## ✨ Features
+✅ Add and remove items easily  
+✅ Categorize items into groups (e.g., Fruits, Dairy, etc.)  
+✅ Sort items within categories for quick access  
+✅ User-friendly Tkinter GUI  
 
-## 🚀 Installation & Usage  
-### 1️⃣ **Clone the repository**  
-```bash
-git clone https://github.com/catshadow84/shopping-list-manager
-cd shopping-list-manager
+## 🛠️ Technologies Used
+- Python 3
+- Tkinter (for GUI)
